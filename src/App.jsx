@@ -1,3 +1,4 @@
+import Home from './components/Home'
 import './index.css'
 
 function App() {
@@ -5,7 +6,7 @@ function App() {
 
   return (
     <div>
-      
+      <Home />
     </div>
   )
 }
