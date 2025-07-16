@@ -1,6 +1,4 @@
 import React, { useEffect, useState } from 'react'
-import Login from './Login'
-import Register from './Register'
 import { useNavigate } from 'react-router-dom'
 
 function Home() {
